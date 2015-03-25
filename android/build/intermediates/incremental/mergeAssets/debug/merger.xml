@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="G:\Work\3rd_Project\Game\android\assets"><file name="badlogic.jpg" path="G:\Work\3rd_Project\Game\android\assets\badlogic.jpg"/></source></dataSet><dataSet config="debug"><source path="G:\Work\3rd_Project\Game\android\src\debug\assets"/></dataSet></merger>

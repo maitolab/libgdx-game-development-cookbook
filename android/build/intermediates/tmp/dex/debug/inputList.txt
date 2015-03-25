@@ -1,0 +1,5 @@
+G:\Work\3rd_Project\Game\android\build\intermediates\classes\debug
+G:\Work\3rd_Project\Game\android\build\intermediates\pre-dexed\debug\core-1.0-007b0bca8cfc0d8c47ba50eb884354dd7a448768.jar
+G:\Work\3rd_Project\Game\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.5.5-fb24d8835f6054a07b2b3d23c25cb4069b7ba4df.jar
+G:\Work\3rd_Project\Game\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.5.5-ab91b5657ca706a138c297d2d963609583d141a9.jar
+G:\Work\3rd_Project\Game\android\build\intermediates\pre-dexed\debug\gdx-1.5.5-d3e437a3b65280b2a37fc4c25f7d0dace793c677.jar
